@@ -1,0 +1,7 @@
+callable parameters from command line:
+
+num_epochs
+pred_len 
+obs_len
+learning_rate
+batch_size
